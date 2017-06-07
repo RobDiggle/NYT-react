@@ -1,0 +1,23 @@
+{
+  "name": "nyt-react",
+  "version": "1.0.0",
+  "description": "Homework for RCB using React.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobDiggle/NYT-react.git"
+  },
+  "author": "Robert Diggle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobDiggle/NYT-react/issues"
+  },
+  "homepage": "https://github.com/RobDiggle/NYT-react#readme",
+  "dependencies": {
+    "webpack": "^2.6.1"
+  }
+}
